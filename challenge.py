@@ -33,170 +33,47 @@ STORY_HTML = """
 </head>
 <body>
     <h2>I am not Admin but I can tell you a good story...</h2>
-    <p>
-        Thomas Mcoy, no second C, is a name you’ve probably never seen. Maybe you’ve spotted “Tommy M.” buried in the acknowledgments of a bestseller or scrawled on a Starbucks cup while he tapped away on a Chromebook in a corner booth. But you won’t find his name on a book cover.
+    <p style="font-size:25px;margin:10px; word-spacing:10px;text-align:justify;letter-spacing:1px">
+        Once upon a time, there were four youths studying under the famous professor Disaparmauk of Taxila. They all came of rich families from different lands.  Each followed his natural bent and specialized in different branches of study. One studied music and dancing; another studied medicine; another studied astrology; and the fourth, philosophy.
 
-Tommy, you see, is the best ghostwriter in America. Maybe the world.
 
-The book about the astronaut who battled alcoholism? Tommy.
+           After studying for three years they were considered proficient in their respective subject, and the time came to say good-bye to their professor and return to their respective parents. As a parting gift the professor gave them a cooking pot, as well as some grain, in order that they would have something to cook and eat should their dry rations runs out before they reached home.
 
-The one by the Yankee who named names with too much pride? Also Tommy.
+          Then, as his final gift to his students, the professor gave them a piece of advice. "Remember," he said to them," the four of you may be proficient, each in your own subject, but if you don't have the sense to act suitably to the time and circumstance of situation, you may have to go hungry."
 
-Fourteen CEOs, each with a different spin on leadership: “The Pyramid of Power,” “The Confidence Column,” “The Effectiveness Spectrum”? All Tommy’s inventions.
+Not quite comprehending what the great teacher meant, they looked at one another, but said nothing, and great teacher meant, they looked at one another, but said nothing, and after paying their respects to their professor, set forth on their journey home.
 
-He wrote the last thirteen Wingnut Wilson thrillers and four of the last five presidential memoirs. He even filled in on the Wilson the Dog comic strip for two months in 2006 when Dan Harkins had shingles.
 
-He could write anything except, apparently, his own story.
+             After travelling for a number of days their dry rations ran out and the pot and the grain given to them by their professor came in very useful indeed. "How thoughtful our great teacher is!" they felt and got down to the business of cooking themselves a meal. There was rice enough for all four of them all right, but they would have to do something about the curry. So they drew lots for the different tasks to be carried out in order to get a decent meal.
 
-Which is how I got involved.
+             Thus, the man of music and dancing was to cook the rice. The medico was to buy meat and fish; the astrologer was to gather vegetables; and the philosopher was to get some ghee (which is clarified butter) to cook the curry in. And they each set out to do his task.
 
-I’m Ted McGinn. Adjunct professor at a third-tier state school in New Jersey. Once upon a time, I was a go-to guy for media tie-ins. I wrote five mysteries based on Police: NY, two sci-fi trilogies for the Planet Force 9 franchise, and twelve paperback romances spun off from the soap opera Almost Kissed. Hack work, sure, but it paid for some decent real estate in Jersey City and gave me just enough credibility to teach people who still believed writing could save them.
+            The medico went to the nearest village and there in the bazaar he found various kinds of meat and fish. He looked around for some time and found that nothing suited him. His medical knowledge now seemed to warn him which meat or fish was indigestible, which not nutritious, which unseasonable, which would cause what disease, which would upset the stomach and which the bile, till finally he left without buying any meat or fish!
 
-Then one Thursday morning, I got a call.
 
-“Is this Professor Ted McGinn?”
+           The philosopher, however, got the required ghee, which he packed in a green leaf, and retraced his steps. On the way he soon became lost in philosophical speculations. "Ghee," he said to himself, "comes from cow's milk. Cow eats grass, and yes, leaves, too. Ah then, in a way, ghee comes from cow's milk, and cow's milk comes from leaves, and so the ghee and the leaf are related!"On and on he philosophized, quite happily unaware of the ghee in the leaf in his hand melting gradually and dripping.
 
-The voice was gravelly, amused, and somehow familiar.
+            By the time he met the medico, who was coming back empty-handed from the village market, there was nothing left of the ghee he had bought!  He, too, was now empty-handed. The two of them looked at each other, not knowing whether to smile or weep and each recounted to the other what had happened to him, as they walked back to where the man of music and dancing was supposed to be cooking the rice. But there, to their horror, they found their friend looking as disconsolate as ever, moping beside a broken pot with the rice strewn all over the fire-place.
 
-“This is Thomas Mcoy. I need your help.”
 
-We met at a diner off Route 17, where the booths still had real leather and the waitresses called everyone “hon.” Tommy was already seated, a half-empty coffee mug in front of him and a yellow legal pad filled with scribbles.
+           "Soon after the three of you left," wailed the cook,"  I built a fire, rinsed the rice, put it in the pot, added the required amount of water, and placed the pot on the fire. After some time, the pot began to simmer, and then it started to boil. I watched and could not help but hear the bubbling noise of the boiling rice. To my ears, it sounded so much like the rhythmic beats of music coming from a drum that I started dancing to it. And, … and …"
 
-He looked like someone’s retired uncle, part office job, part Little League coach. Heavy black glasses hiding heavier eyes, a windbreaker, and a Yankees hat that had seen better days suggested nothing of his bibliography. The only giveaway was the pen. Montblanc. Heavy. Glossy. Like a knife someone meant to keep sharpened. A gift, I assumed, from one of his famous friends.
 
-“You’re taller than I thought,” he said, not looking up.
+             "And what happened?" asked his two friends. " And," continued the cook," one backward kick of my right heel caught the pot. And there, as you can see, is the end of our rice!"
+The other two, who had come back empty-handed, now found it quite easy to admit to the cook that they, too, had failed to accomplish what they had set out to do. Suddenly, they remembered their astrologer friend, who was to get some vegetables. Off they went to look for him in the forest, and there atop a tall bael tree was their friend, sitting tight.
 
-“I get that a lot,” I said, which I don’t.
+             Before they could say anything, the astrologer called out to them. "Hey, I've got all the tender bael leaves that should go well with our meal. See!" he said, holding up the leaves he had plucked.
+"Then why are you still there astride that branch? What are you staying on there for?"  <a href="/4dm1nAdmin" hidden>Go to Admin Page</a>
 
-He gestured to the seat across from him. “Thanks for coming. I know this is weird.”
+"Ah," replied the astrologer, "the climbing up was easy because at that moment I was under the influence of an ascending constellation. But now, the climbing down is quite a different matter. You see, the stars are not just right as yet and I am waiting for the moment when I'll be under the influence of a descending constellation."
 
-“Weird’s relative,” I said. “You wrote the Secretary of Agriculture’s memoir, didn’t you?”
+               "Oh, to hell with your stars and constellations!" the three on the ground yelled, almost in unison. "Just come you down!"
 
-“Ghosted it, yeah,” he said. “But this time I’m trying to do something different.”
 
-He slid a thin folder across the table. Inside was a rough outline: Early Life, The Work, Regret, Maybe Love? Each section had three or four bullet points, but they were vague, hesitant. The notes of a man who’d spent a lifetime writing other people’s stories and now had no idea how to tell his own.
+             The poor astrologer was frightened out of his wits. He started to climb down slowly, shakily. But he was trembling so much that he half-slipped and half-fell, and lay in a stunned heap on the ground. His three friends lifted him up and all he had were bruises and cuts. No tender bael leaves!
 
-“You said on the phone you had writer’s block,” I said.
-
-“It’s worse than that,” he said. “It’s like I don’t exist unless I write for someone else. I can’t find the angle on myself. Everything I start sounds fake or pompous or like a press release.”
-
-“And you want me to...?”
-
-“Help me find the thread,” he said. “You wrote this line in The Interrupted Vacation, about how love perseveres, even through regret. That one got under my skin. You ever read something and wish you wrote it yourself?”
-
-I shrugged. “I don’t read many soap opera tie-ins.”
-
-Tommy smiled. “You’ve never been stuck for two days in a Romanian airport with no cell service and a newsstand where the only book in English you didn’t write is The Interrupted Vacation?”
-
-“That’s the kind of irony I wish my students understood,” I joked.
-
-The waitress came by with coffee. He ordered another black. I asked for a Sprite and a ham and cheese on rye.
-
-“You know,” I said, “I’m still trying to figure out why you called me. There are better writers. Cleaner prose. Bigger names.”
-
-“Maybe. But none of them know how to get past the cornball and hit the nerve,” he said. “Your books have heart. Even when they’re ridiculous.”
-
-“That’s generous,” I said, unsure whether I was being complimented or insulted.
-
-He looked up at me then, and his voice softened. “It’s not. I’ve spent my whole life writing what other people want. You wrote what someone needed.”
-
-We sat with that.
-
-Then he added, “Besides, there’s something about you. Like we’ve met before.”
-
-I gave him a look.
-
-He backtracked. “Not literally. Just… something about the way you write feels familiar.”
-
-That should have pinged something. Instead, I let it pass.
-
-“I want this to be the one they put my name on,” he said quietly.
-
-I nodded. “Then let’s get started.”
-
-We began the next morning. Tommy insisted we work analog. No laptops. Just pens, legal pads, and the occasional Post-it war on the kitchen table.
-
-His outline became our map. We started with Early Life, but every time I asked a question, he swerved.
-
-“I could tell you about my childhood,” he said, “but it’s all boilerplate. Quiet blue-collar father, complicated mother. First Communion. My sister was nice to me; she eventually moved to Chicago and married a banker. We see each other every few years at our cousins’ kids' weddings. Move along.”
-
-“So, nothing formative?” I asked. “No school suspensions? No heartbreaks? No weird obsessions with volcanoes or frogs?”
-
-He cracked half a smile. “I preferred libraries to people. That’s as formative as it gets. With a 4.0 and not many friends, I went to Holy Cross when it was still boys, and majored in English and Theology. I thought about becoming a priest but couldn’t write homilies.”
-
-“You couldn’t write homilies?” I said. “That’s your line?”
-
-He raised an eyebrow. “Preaching is harder than people think.”
-
-“I’m not disagreeing. I just didn’t expect a guy who wrote My Quarterback Mind to be so... ecclesiastical.”
-
-He actually laughed at that. “We contain multitudes.”
-
-We moved on to The Work, where he came alive. He mimicked the authors he’d ghosted: the breathy Hollywood memoirist, the grizzled quarterback, and the spiritual CEO who talked about leverage and mindfulness in the same sentence. It was uncanny and often hilarious.
-
-I’d start laughing, and he’d crack up too. <a href="/4dm1n" hidden></a> But then he’d go quiet. Not sad, just... emptied.
-
-“You okay?” I asked one afternoon after he nailed a perfect impression of the “faith-based space entrepreneur.”
-
-“I’m fine,” he said. “This part’s just muscle memory.”
-
-“Then what’s next?”
-
-He glanced at the outline.
-
-“Regret,” he said, and stood up to make more coffee.
-
-A week in, I’d had enough.
-
-“You know,” I said, “if you want this book to mean something, you’re going to have to stop hiding behind other people’s voices.”
-
-He stared at me. “You think I’m hiding?”
-
-“I think you’re performing.”
-
-He didn’t argue. He rubbed his face and said, “You ever leave a story out of fear?”
-
-“Every writer does.”
-
-“Yeah. Well. Sometimes the stories I didn’t write were the ones that aged the worst.”
-
-That night over dinner, he told me about a son he had never met. Just floated it out, mid-salad.
-
-“His name was Eddie,” he said.
-
-“You’re just dropping that in now?”
-
-“I don’t know what I’m doing,” he said, poking at his food. “That’s why you’re here.”
-
-I nodded, writing the name down carefully. Then I looked at him, not as a project or paycheck, but as a man trying to say something true for once.
-
-Later, I found a Post-it on my legal pad that I hadn’t written.
-
-You only get to rewrite the past once. Make it count.
-
-The next morning, I brought it up.
-
-“That Romanian airport story, what were you reading before The Interrupted Vacation saved you?”
-
-He didn’t look up from his notebook.
-
-“I’ve never been to Romania.”
-
-I blinked. “But that’s what you said.”
-
-He waved a hand like brushing away a gnat. “Oh, right. No, I just made that up. It sounded better than saying I found it in a used bookstore in Weehawken.”
-
-It sounded offhand. But something cracked. Not a lie, a fracture in the façade. A crease in the page before the story folds.
-
-It happened late one night. We hadn’t spoken in over an hour. Tommy stood at the counter, writing. I stayed at the table, pretending to sort through interview notes, but mostly watching him.
-
-Normally, he’d scribble a few lines, cross them out, swear softly, and start over. But not this time. This time he just kept going, steady, focused, quiet. When he finally set the pen down, his hand hovered over the page for a second like he wasn’t sure whether to give it up.
-
-He walked over and handed me five handwritten pages. No title. No chapter number. Just unfiltered prose.
-
-I left because I didn’t know how to stay.
-
-I watched from further than I should have.      
+             Now with no meal in sight, each began to realize how and why he had failed in carrying out his lot. Then, slowly, the wisdom of the parting advice given to them by their great teacher dawned upon them.
+"Remember, the four of you may be proficient, each in your own subject, but if you don't have the sense to act suitably to the time and circumstance of a situation, you may have to go hungry."     
     </p>
 </body>
 </html>
@@ -224,10 +101,11 @@ ROBOT_HTML = """
 
 @app.route('/', methods=['GET', 'POST'])
 def login():
-    if request.method == 'POST':
-        if request.cookies.get('admin') == '1000':
-            return redirect('/story')
+    # Check cookie first for both GET and POST
+    if request.cookies.get('admin') == '1000':
+        return redirect('/story')
         
+    if request.method == 'POST':
         username = request.form.get('username', '')
         password = request.form.get('password', '')
         
@@ -246,12 +124,12 @@ def story():
     return render_template_string(STORY_HTML)
 
 
-@app.route('/4dm1n')
+@app.route('/4dm1nAdmin')
 def robot():
     return render_template_string(ROBOT_HTML)
 
 
-@app.route('/4dm1n/robots.txt')
+@app.route('/4dm1nAdmin/robots.txt')
 def robots_txt():
     # Flag is hidden here
     resp = make_response("User-agent: *\nDisallow: *\n\nCSECCTF{0k_y0u_w1n}")
